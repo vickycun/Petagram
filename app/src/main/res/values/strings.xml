@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="pnum">0 </string>
+    <string name="cdmascota"> </string>
+    <string name="mascotas_favoritas">5 Mascotas Favoritas </string>
+    <string name="favoritos">Mis 5 Mascotas Favoritas</string>
+    <string name="texto_Accion">Acción</string>
+    <string name="nombre">Luchi</string>
+    <string name="activity5_mascotas_fav">Like</string>
+    <string name="likes">1</string>
+    <string name="opciones">Opciones</string>
+</resources>

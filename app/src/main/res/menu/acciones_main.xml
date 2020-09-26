@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/btn_estrella"
+        android:icon="@mipmap/icons8_hotel_48"
+        android:title=""
+        app:showAsAction="always" />
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_settings"
+        android:title=""
+        app:showAsAction="ifRoom" />
+
+</menu>
